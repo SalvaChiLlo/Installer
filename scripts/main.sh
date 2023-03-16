@@ -9,7 +9,7 @@ yay -S 7-zip-full\
         arandr\
         autojump\
         autotiling\
-        blueberry-tray\
+        blueberry\
         dbeaver\
         feh\
         gittyup\
