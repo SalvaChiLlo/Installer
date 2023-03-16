@@ -8,6 +8,7 @@ ssh-add ~/.ssh/id_ed25519
 
 echo [GIT] -- COPIA LA SIGUIENTE CLAVE PÚBLICA EN TU CUENTA DE GITHUB
 cat ~/.ssh/id_ed25519.pub
+read -p "Seguimos? " -n 1 -r
 ssh -T git@github.com
 
 cd $HOME
