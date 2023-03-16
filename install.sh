@@ -5,10 +5,10 @@ echo $BASEDIR
 
 chmod +x $BASEDIR/*
 
-$BASEDIR/main.sh $BASEDIR
-$BASEDIR/git.sh $BASEDIR
-$BASEDIR/nvm.sh $BASEDIR
-$BASEDIR/sym_links.sh $BASEDIR
-$BASEDIR/zsh.sh $BASEDIR
-$BASEDIR/vim.sh $BASEDIR
-$BASEDIR/tmux.sh $BASEDIR
+$BASEDIR/scripts/main.sh $BASEDIR
+$BASEDIR/scripts/git.sh $BASEDIR
+$BASEDIR/scripts/nvm.sh $BASEDIR
+$BASEDIR/scripts/sym_links.sh $BASEDIR
+$BASEDIR/scripts/zsh.sh $BASEDIR
+$BASEDIR/scripts/vim.sh $BASEDIR
+$BASEDIR/scripts/tmux.sh $BASEDIR
