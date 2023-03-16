@@ -3,7 +3,7 @@
 BASEDIR=$PWD
 echo $BASEDIR
 
-chmod +x $BASEDIR/*
+chmod +x $BASEDIR/scripts/*
 
 $BASEDIR/scripts/main.sh $BASEDIR
 $BASEDIR/scripts/git.sh $BASEDIR
