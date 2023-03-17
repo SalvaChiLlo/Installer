@@ -1,5 +1,6 @@
 #!/bin/bash
 
+sudo mkdir -p /usr/share/wallpaper
 sudo cp $1/wallpaper/current.png /usr/share/wallpaper/current.png
 
 yay -Syu
