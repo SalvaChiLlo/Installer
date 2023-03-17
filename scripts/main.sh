@@ -6,7 +6,7 @@ sudo cp $1/wallpaper/current.png /usr/share/wallpaper/current.png
 yay -Syu
 
 yay -S 7-zip-full\
-        alacritty-git\
+        alacritty\
         arandr\
         autojump\
         autotiling\
