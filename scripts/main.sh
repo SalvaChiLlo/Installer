@@ -10,7 +10,9 @@ yay -S 7-zip-full\
         arandr\
         autojump\
         autotiling\
+        direnv\
         blueberry\
+        otf-cascadia-code-nerd\
         feh\
         google-chrome\
         flameshot\
@@ -26,12 +28,12 @@ yay -S 7-zip-full\
         thunderbird\
         tmux\
         vim\
-        zsh
-        # dbeaver\
-        # postman-bin\
-        # remmina\
-        # trilium-bin\
-        # visual-studio-code-bin\
-        # zeal\
-        # nerd-fonts-git\
-        # gittyup\
+        zsh\
+        dbeaver\
+        postman-bin\
+        remmina\
+        trilium-bin\
+        visual-studio-code-bin\
+        zeal\
+        nerd-fonts-git\
+        gittyup
