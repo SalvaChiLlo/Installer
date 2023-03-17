@@ -17,7 +17,7 @@ yay -S 7-zip-full\
         google-chrome\
         flameshot\
         i3lockmore-git\
-        i3status-rust-git\
+        i3status-rust\
         indicator-sound-switcher\
         libinput\
         libinput-gestures\
@@ -28,7 +28,7 @@ yay -S 7-zip-full\
         remmina\
         rofi-greenclip\
         thunderbird\
-        tmux-git\
+        tmux\
         trilium-bin\
         vim\
         visual-studio-code-bin\
