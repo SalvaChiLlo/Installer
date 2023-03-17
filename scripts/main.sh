@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cp $1/wallpaper/current.png /usr/share/wallpaper/current.png
+sudo cp $1/wallpaper/current.png /usr/share/wallpaper/current.png
 
 yay -Syu
 
@@ -20,7 +20,7 @@ yay -S 7-zip-full\
         indicator-sound-switcher\
         libinput\
         libinput-gestures\
-        neovim-git\
+        neovim\
         nerd-fonts-git\
         picom-jonaburg-git\
         postman-bin\
