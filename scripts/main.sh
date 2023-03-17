@@ -22,7 +22,6 @@ yay -S 7-zip-full\
         libinput\
         libinput-gestures\
         neovim\
-        nerd-fonts-git\
         picom-jonaburg-git\
         postman-bin\
         redshift\
@@ -35,3 +34,4 @@ yay -S 7-zip-full\
         visual-studio-code-bin\
         zeal\
         zsh
+        # nerd-fonts-git\
