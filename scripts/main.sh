@@ -11,9 +11,7 @@ yay -S 7-zip-full\
         autojump\
         autotiling\
         blueberry\
-        dbeaver\
         feh\
-        gittyup\
         google-chrome\
         flameshot\
         i3lockmore-git\
@@ -23,15 +21,17 @@ yay -S 7-zip-full\
         libinput-gestures\
         neovim\
         picom-jonaburg-git\
-        postman-bin\
         redshift\
-        remmina\
         rofi-greenclip\
         thunderbird\
         tmux\
-        trilium-bin\
         vim\
-        visual-studio-code-bin\
-        zeal\
         zsh
+        # dbeaver\
+        # postman-bin\
+        # remmina\
+        # trilium-bin\
+        # visual-studio-code-bin\
+        # zeal\
         # nerd-fonts-git\
+        # gittyup\
