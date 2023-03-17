@@ -35,4 +35,5 @@ yay -S 7-zip-full\
         trilium-bin\
         visual-studio-code-bin\
         zeal\
+        lxappearance\
         gittyup
