@@ -34,4 +34,4 @@ yay -S 7-zip-full\
         vim\
         visual-studio-code-bin\
         zeal\
-        zsh-git
+        zsh
