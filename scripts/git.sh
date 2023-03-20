@@ -19,3 +19,5 @@ git clone git@github.com:SalvaChiLlo/arch_dotfiles.git my_config
 
 cp -r my_config/.* ~/
 cp -r my_config/* ~/
+
+git clone https://github.com/bardisty/gruvbox-rofi ~/.config/rofi/themes/gruvbox
