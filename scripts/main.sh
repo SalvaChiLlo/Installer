@@ -34,6 +34,7 @@ yay -S 7-zip-full\
         remmina\
         trilium-bin\
         visual-studio-code-bin\
+        gestures\
         lxappearance-gtk3
         # zeal
         # gittyup
