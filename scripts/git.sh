@@ -21,3 +21,6 @@ cp -r my_config/.* ~/
 cp -r my_config/* ~/
 
 git clone https://github.com/bardisty/gruvbox-rofi ~/.config/rofi/themes/gruvbox
+
+mkdir -p ~/.config/alacritty/colors
+git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/colors

@@ -13,7 +13,6 @@ yay -S 7-zip-full\
         direnv\
         blueberry\
         otf-cascadia-code-nerd\
-        alacritty-theme\
         alacritty-colorscheme\
         feh\
         google-chrome\
