@@ -13,7 +13,7 @@ yay -S 7-zip-full\
         direnv\
         blueberry\
         otf-cascadia-code-nerd\
-        alacritty-themes\
+        alacritty-theme\
         feh\
         google-chrome\
         flameshot\
