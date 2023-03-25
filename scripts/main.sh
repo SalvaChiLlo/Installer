@@ -14,6 +14,7 @@ yay -S 7-zip-full\
         blueberry\
         otf-cascadia-code-nerd\
         alacritty-theme\
+        alacritty-colorscheme\
         feh\
         google-chrome\
         flameshot\
